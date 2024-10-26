@@ -38,9 +38,9 @@ Each model's performance was evaluated using RMSE (Root Mean Squared Error) and 
 1. **Prophet Model**: Generated future trend forecasts, with evaluation metrics focused on forecast accuracy.
 2. **Linear Regression**: RMSE and R² scores evaluated against the test set.
 3. **Random Forest**: Evaluated for better accuracy in non-linear trends.
-4. **Gradient Boosting**: Assessed for its ability to capture complex relationships and compared against the performance of other models.
+4. **Gradient Boosting**: Capture complex relationships and compared against the performance of other models.
 
 ## Conclusion
-The analysis and model forecasts provide an in-depth look into MIGA's financial trends, enabling data-driven insights. Forecasts from Prophet and machine learning models offer valuable projections for financial planning.
+These models shows the feasibility of using historical financial data to predict future financial performance. The insights from this analysis provide a valuable foundation for strategic financial decision-making. By accurately forecasting revenue trends and understanding key expense drivers, stakeholders are better equipped to anticipate future financial outcomes, allocate resources more effectively, and identify opportunities for growth or cost optimization. With the insights gained, the models can serve as a decision support tool, guiding organizations toward more informed and proactive financial strategies. Future improvements could include incorporating additional data sources and exploring alternative model architectures for enhanced accuracy.
 
 ## Contributors
